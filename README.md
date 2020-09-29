@@ -1,8 +1,8 @@
 # Hi I'm Thomas 👋
 ## Looking for job, where I am able to get experiance and try my skills in a proffesional setting
 
-### Currently in formal education 🏫
-## UCL - Vejle, Datamatiker (Computer Science) 💻
+## Currently in formal education 🏫
+### UCL - Vejle, Datamatiker (Computer Science) 💻
 
 # Skills:
 ### C# ✅
