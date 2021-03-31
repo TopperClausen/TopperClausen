@@ -1,8 +1,5 @@
 # Hi I'm Thomas 👋
-## Looking for job, where I am able to gain experiance and try my skills in a proffesional setting
-
-## Currently in formal education 🏫
-### UCL - Vejle, Datamatiker (Computer Science) 💻
+## I am Russian hacker, very dangerous man
 
 # Skills:
 ### C# ✅
