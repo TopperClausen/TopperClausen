@@ -5,7 +5,7 @@
 ## Currently in an internship at Limbo, working on Vue.
 
 # Socials:
-## [LinkedIn](https://www.linkedin.com/in/thomas-clausen-0b2222157/)
+### [LinkedIn](https://www.linkedin.com/in/thomas-clausen-0b2222157/)
 
 # Skills:
 ### C# ✅
