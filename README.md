@@ -2,7 +2,7 @@
 
 ## Big Node and npm enthusiast doing both frontend and backend work.
 
-## Currently in an internship at Limbo, working on Vue.
+## Currently working with Ruby On Rails @ Sofus
 
 # Socials:
 ### [LinkedIn](https://www.linkedin.com/in/thomas-clausen-0b2222157/)
