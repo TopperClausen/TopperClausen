@@ -1,6 +1,6 @@
 # Hi I'm Thomas 👋
 
-## Big Node and npm enthusiast doing both frontend and backend work.
+## Big Node, .NET and Ruby On Rails enthusiast.
 
 ## Currently looking for work
 
